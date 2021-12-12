@@ -1,0 +1,27 @@
+.product-name{
+    width: 50%;
+}
+.quantity-wrapper{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.quantity-plus-button{
+    width: 20%;
+    font-size: 13px;
+    padding: 5px;
+}
+.quantity-minus-button{
+    width: 20%;
+    font-size: 13px;
+    padding: 5px;
+}
+.cart-header{
+    text-align: center;
+    border-bottom: 2px solid grey;
+    padding-bottom: 10px;
+}
+
